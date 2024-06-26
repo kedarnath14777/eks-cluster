@@ -5,7 +5,7 @@ metadata:
   region: us-east-1
 managedNodeGroups:
   - name: Expense-1
-    inistaceType: m5.large 
+    instaceType: m5.large 
     desiredCapacity: 3
     spot: yes 
 
