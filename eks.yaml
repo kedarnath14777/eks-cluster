@@ -1,5 +1,5 @@
 apiVersion: eksctl.io/v1alpha5
-kind: clusterconfig 
+kind: clusterConfig 
 metadata:
   name: Expense-1 
   region: us-east-1
