@@ -3,7 +3,7 @@ kind: clusterconfig
 metadata:
   -name: Expense-1 
   region: us-east-1
-manageNodeGroups:
+managedNodeGroups:
   -nmae: Expense
   instanceType: m5.large
   diseriedCapicity: 3 
