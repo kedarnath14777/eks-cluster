@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: Expense-1
-  region: eu-north-1 
+  region: us-east-1 
 managedNodeGroups:
   - name: Expencse
     instanceType: m5.large
