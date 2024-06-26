@@ -4,7 +4,7 @@ metadata:
   -name: Expense-1 
   region: us-east-1
 manageNodeGroups:
-  -nmae: spot
+  -nmae: Expense
   instanceType: m5.large
   diseriedCapicity: 3 
   spot: true 
