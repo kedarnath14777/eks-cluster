@@ -1,0 +1,13 @@
+apiVersion: eksctl.io/v1alpha5
+kind: clusterconfig 
+metadata:
+  -name: Expence 
+  region: us-easet-1a
+manageNodeGroups:
+  -nmae: spot
+  instanceType: m5.large
+  diseriedCapicity: 3 
+  spot: true 
+
+
+
